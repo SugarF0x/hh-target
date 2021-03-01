@@ -1,0 +1,17 @@
+{
+  "name": "HH No Target",
+  "version": "1.0.0",
+  "version_name": "1.0.0",
+  "description": "Remove targets from HH anchors",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.hh.ru/*"
+      ],
+      "js": [
+        "index.js"
+      ]
+    }
+  ]
+}

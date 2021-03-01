@@ -1,0 +1,2 @@
+This small plugin removes targets from HeadHunter.ru job listing anchors.
+You can get it at Chrome Store [here](https://chrome.google.com/webstore/detail/hh-no-target/gajjolglmgfimniggohnmdlnennjabjj/related?hl=en&authuser=1)
